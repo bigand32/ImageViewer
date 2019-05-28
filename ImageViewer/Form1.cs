@@ -15,5 +15,15 @@ namespace ImageViewer
         {
             InitializeComponent();
         }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+
+        }
+
+        private void lblNum_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
